@@ -1,0 +1,24 @@
+{
+  "name": "first-typescript-program",
+  "version": "1.0.0",
+  "description": "TypeScript Interactive Average Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhursiwala2005/first-typescript-program.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mkhursiwala2005/first-typescript-program/issues"
+  },
+  "homepage": "https://github.com/mkhursiwala2005/first-typescript-program#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.0"
+  }
+}

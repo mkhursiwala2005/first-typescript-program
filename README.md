@@ -1,5 +1,8 @@
 # TypeScript Interactive Average Calculator
 
+## Run the commands shown below once to compile the program:
+    npm init -y
+    npm install --save-dev @types/node
 ## Overview
 
 ### This program is a command-line TypeScript application that calculates the average of user-provided numbers.
@@ -7,13 +10,9 @@
 #### It demonstrates:
 
     Static typing in TypeScript
-
     Compile-time type checking
-    
     Runtime input validation
-    
     Asynchronous user input handling
-    
     Basic control flow (loops and conditionals)
 
 #### What the Program Does
